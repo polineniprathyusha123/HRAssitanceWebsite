@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npx ng serve",
+"WorkingDirectory": "C:\\Users\\p.polineni\\source\\repos\\HrAssistancePortal\\HrAssistancePortal\\clientApp",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

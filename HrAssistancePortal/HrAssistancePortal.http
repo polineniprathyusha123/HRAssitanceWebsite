@@ -1,0 +1,6 @@
+@HrAssistancePortal_HostAddress = http://localhost:5100
+
+GET {{HrAssistancePortal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

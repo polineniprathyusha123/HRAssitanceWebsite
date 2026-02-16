@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\p.polineni\\source\\repos\\HrAssistancePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA46AA4E-1B45-4829-BD93-F0028B75474E}|HrAssistancePortal\\HrAssistancePortal.csproj|c:\\users\\p.polineni\\source\\repos\\hrassistanceportal\\hrassistanceportal\\hrassistanceportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA46AA4E-1B45-4829-BD93-F0028B75474E}|HrAssistancePortal\\HrAssistancePortal.csproj|solutionrelative:hrassistanceportal\\hrassistanceportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HrAssistancePortal",
+              "DocumentMoniker": "C:\\Users\\p.polineni\\source\\repos\\HrAssistancePortal\\HrAssistancePortal\\HrAssistancePortal.csproj",
+              "RelativeDocumentMoniker": "HrAssistancePortal\\HrAssistancePortal.csproj",
+              "ToolTip": "C:\\Users\\p.polineni\\source\\repos\\HrAssistancePortal\\HrAssistancePortal\\HrAssistancePortal.csproj",
+              "RelativeToolTip": "HrAssistancePortal\\HrAssistancePortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-13T12:11:07.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

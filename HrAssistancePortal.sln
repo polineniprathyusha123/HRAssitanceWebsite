@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrAssistancePortal", "HrAssistancePortal\HrAssistancePortal.csproj", "{DA46AA4E-1B45-4829-BD93-F0028B75474E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA46AA4E-1B45-4829-BD93-F0028B75474E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA46AA4E-1B45-4829-BD93-F0028B75474E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA46AA4E-1B45-4829-BD93-F0028B75474E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA46AA4E-1B45-4829-BD93-F0028B75474E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD29E8D-D38A-43D6-BE32-1CD2238FB4AA}
+	EndGlobalSection
+EndGlobal
